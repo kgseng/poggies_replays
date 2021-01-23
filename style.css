@@ -17,7 +17,7 @@ img.right {
     transform: scaleX(-1);
 }
 
-.hero-image {
+.background {
     background-image: url("background.png");
     height: 100%;
     background-position: center;
@@ -26,7 +26,7 @@ img.right {
     position: relative;
   }
   
-.hero-text {
+.content {
     text-align: center;
     position: relative;
     top: 50%;
